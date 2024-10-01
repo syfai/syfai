@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syfai
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in ai
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on solidity learnings
 - 📫 How to reach me ...
